@@ -1,5 +1,7 @@
 use godot::prelude::*;
 
+mod main_scene;
+mod shapell;
 struct MyExtension;
 
 #[gdextension]
